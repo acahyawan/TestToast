@@ -21,7 +21,7 @@ public class MainActivity extends Activity {
 			@Override
 			public void onClick(View v) {
 				// TODO Auto-generated method stub
-				Toast.makeText(MainActivity.this, "test123", Toast.LENGTH_LONG).show();
+				Toast.makeText(MainActivity.this, "test1234", Toast.LENGTH_LONG).show();
 				
 			}
         	
